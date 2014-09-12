@@ -2,9 +2,16 @@
 	padding: 0;
 	margin: 0;
 }
+body {
+	font-size: 12px;
+}
 h1 {
-	font-size: 3em
+	font-size: 3em;
+}
+h2  {
+	font-size: 2em;
 }
 p {
+	font-size: 1em;
 	color: orange;
 }
